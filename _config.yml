@@ -17,6 +17,8 @@ author :
   github : jonfuller
   twitter : @jon_fuller
   feedburner : SepBitsAndBytes
+  feedbaname : SepBitsAndBytes
+  feedname : SepBitsAndBytes
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
