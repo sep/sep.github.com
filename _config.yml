@@ -5,6 +5,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
+future: false
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -14,8 +15,8 @@ tagline: Practical bits from the folks at SEP
 author :
   name : Jon Fuller and the rest of the SEPeers
   email : jcfuller@sep.com
-  github : jonfuller
-  twitter : @jon_fuller
+  github : http://github.com/sep
+  twitter : @SEPLabs
   feedburner : SepBitsAndBytes
   feedbaname : SepBitsAndBytes
   feedname : SepBitsAndBytes
