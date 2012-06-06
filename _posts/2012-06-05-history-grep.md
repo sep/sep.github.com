@@ -4,6 +4,7 @@ title : "history | grep"
 description: ""
 category: shell
 tags: [shell, history, grep]
+author: (swanson)[http://github.com/swanson]
 ---
 {% include JB/setup %}
 
