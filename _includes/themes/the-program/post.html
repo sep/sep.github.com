@@ -21,6 +21,9 @@
 							<span class="year">{{ page.date | date: '%Y' }}</span>
 							</date>
 						</p>
+            <p class="date-publish">
+              Author:
+							<span class="year">{{ page.author }}</span>
 						<ul class="list-category list-linear">
 							<li class="list-head">category: </li>
 							{% assign categories_list = page.categories %}
