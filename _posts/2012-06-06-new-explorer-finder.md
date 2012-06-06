@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Open A New Explorer or Finder Window In Current Working Directory"
+title: "Open Explorer/Finder Here"
 description: ""
 category: shell
 tags: [osx, windows, shell, explorer, finder]
+date: 2012-06-06 10:00:00
 author: jonfuller
 ---
 {% include JB/setup %}
