@@ -40,6 +40,14 @@ module JB
   end #Path
 end #JB
 
+desc "Tickle the github repo"
+task :tickle do
+  File.open('touch', 'w') {|f| f.write(' ')}
+  `git add touch`
+  `git commit -m "tickle"`
+  `git push origin master`
+end
+
 # Usage: rake post title="A Title" [date="2012-02-09"]
 desc "Begin a new post in #{CONFIG['posts']}"
 task :post do
