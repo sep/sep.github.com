@@ -42,7 +42,7 @@ end #JB
 
 desc "Tickle the github repo"
 task :tickle do
-  File.open('touch', 'w') {|f| f.write(' ')}
+  File.open('touch', 'a') {|f| f.write(' ')}
   `git add touch`
   `git commit -m "tickle"`
   `git push origin master`
