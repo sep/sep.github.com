@@ -10,9 +10,9 @@ author: jonfuller
 
 Shell (~bash) - OS X, Windows, Linux
 
-Disclaimer: These pipes are to be used to tobacco only.
+Disclaimer: These pipes are to be used for tobacco only.
 
-Most of the programs I use at the command line consume and/or product text.  If you want to feed a program text that accepts input on `stdin`, I'll either pipe it in from the previous program, or pipe it in directly from file.
+Most of the programs I use at the command line consume and/or produce text.  If you want to feed a program text that accepts input on `stdin`, I'll either pipe it in from the previous program, or pipe it in directly from file.
 
 For example, if I'm `gzipping` up an xml file:
 
