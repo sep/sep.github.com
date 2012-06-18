@@ -3,7 +3,7 @@ layout: post
 title: "output pipe"
 category: shell
 tags: [shell, pipe, stdout]
-date_parsed: 2012-06-13 10:00:00
+date: 2012-06-13 10:00:00
 author: jonfuller
 ---
 {% include JB/setup %}

@@ -72,7 +72,7 @@ task :post do
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
     post.puts "category: "
     post.puts "tags: []"
-    post.puts "date_parsed: #{date} 10:00:00"
+    post.puts "date: #{date} 10:00:00"
     post.puts "author: "
     post.puts "---"
     post.puts "{% include JB/setup %}"
