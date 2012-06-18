@@ -3,7 +3,7 @@ layout: post
 title: "I Lied: Redirection"
 category: shell
 tags: [shell, redirection, pipe, stdout, stdin, stderr]
-date: 2012-06-18 10:00:00
+date: 2012-06-18 09:00:00
 author: jonfuller
 ---
 {% include JB/setup %}
