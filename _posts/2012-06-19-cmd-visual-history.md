@@ -3,7 +3,7 @@ layout: post
 title: "cmd visual history"
 category: cmd
 tags: [cmd, history]
-date: 2012-06-19 10:00:00
+date: 2012-06-19 09:00:00
 author: jonfuller
 ---
 {% include JB/setup %}
