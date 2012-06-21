@@ -3,7 +3,7 @@ layout: post
 title: "clipboard"
 category: shell
 tags: [shell, clipboard]
-date: 2012-06-21 10:00:00
+date: 2012-06-21 07:00:00
 author: jonfuller
 ---
 {% include JB/setup %}
