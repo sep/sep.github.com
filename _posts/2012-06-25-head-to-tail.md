@@ -24,7 +24,7 @@ For example, say you've got a log file and you'd like to see the first five entr
      > 2012-06-07 05:45:26 HTTP Server Started
      > 2012-06-07 05:45:26 Waiting for HTTP Client Connections
 
-Now, to look at the last 50, so we can see everything that let up to the event we care about:
+Now, to look at the last 50, so we can see everything that led up to the event we care about:
 
     tail -50 /path/to/log.txt
 
