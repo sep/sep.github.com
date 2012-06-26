@@ -3,7 +3,7 @@ layout: post
 title: "follow your tail"
 category: shell
 tags: [tail, shell]
-date: 2012-06-26 10:00:00
+date: 2012-06-26 07:00:00
 author: jonfuller
 ---
 {% include JB/setup %}
