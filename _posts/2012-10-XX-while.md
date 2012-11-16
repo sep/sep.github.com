@@ -2,8 +2,8 @@
 layout: post
 title: "while"
 category: shell
-tags: [shell, stdin, bash, pipe, echo, awk, while, ps, cut]
-date_parsed: 2012-10-XX 10:00:00
+tags: [shell, bash, echo, while, cut, read]
+date_parsed: 2012-11-XX 10:00:00
 author: trimble
 ---
 [%include JB/setup %]
